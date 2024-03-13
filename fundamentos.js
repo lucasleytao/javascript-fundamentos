@@ -1,5 +1,40 @@
 //fundamentos de javascript
 
+//lista-basica
+
+// //1.Declare duas variáveis, `a` e `b`, e atribua a elas valores numéricos quaisquer. Em seguida, exiba a soma desses dois valores.
+// let a = 1; b = 2
+// let c = 'Lucas e '; d = 'Beatriz'
+// let e = '1'; f = '4'
+// console.log(a + b)
+// console.log(c + d)
+// console.log(e + f)
+
+// //2.Declare uma variável `nome` e atribua a ela o seu nome. Em seguida, exiba uma mensagem de boas-vindas concatenando o valor da variável `nome`.
+// let nome = 'Lucas'
+// console.log('Boas vindas, ' + nome)
+
+// //3.Crie um programa que calcule a área de um retângulo. Declare duas variáveis, `base` e `altura`, e atribua a elas valores numéricos. Em seguida, calcule e exiba a área do retângulo, que é dada pela fórmula: `área = base * altura`.
+// let base = 12; altura = 15
+// console.log('A área do retângulo corresponde a: ' + base * altura)
+
+// //4.Declare uma variável `idade` e atribua a ela um valor numérico que represente sua idade. Em seguida, crie uma estrutura condicional para verificar se a pessoa é maior de idade (idade igual ou superior a 18 anos) e exiba uma mensagem correspondente.
+// let idade = 17
+// if (idade >= 18) {
+//     console.log('Maior de idade **Liberado')
+// } else {
+//     console.log('Menor de idade **Bloqueado')
+// }
+
+// //5.Crie um programa que solicite ao usuário que digite um número qualquer. Em seguida, verifique se o número é par ou ímpar e exiba uma mensagem correspondente.
+// let num = 2
+// //let num = prompt('Digite um número inteiro qualquer: ') //input do usuario
+// if (num % 2 == 0) {
+//     console.log('O número é par')
+// } else {
+//     console.log('O número é ímpar')
+// }
+
 //-------------------------------------------------------------------------------------------------------------
 
 //comentario 
