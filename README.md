@@ -1,2 +1,2 @@
 # javascript-fundamentos
-arquivos de estudo de fundamentos em javascript
+arquivo de estudo de fundamentos em javascript
