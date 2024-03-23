@@ -168,8 +168,8 @@ console.log(typeof convertido)
 
 let objeto = {} //array de chave valor 
 let array = [] //vetor de lista 
-let meuNull = null //dados sem valor e que serao alterados dentro do programa 
-let meuUndefined = undefined //variavel sem valor atribuido 
+let meuNull = null //dado sem valor e que sera alterado dentro do programa 
+let meuUndefined = undefined //variavel sem valor atribuido *nao inicializada
 console.log(typeof objeto) 
 console.log(typeof array) 
 console.log(typeof meuNull) 
